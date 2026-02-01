@@ -11,8 +11,8 @@ main:
     url: /#papers
     weight: 11
 
-  - name: News
-    url: /#news
+  - name: Essays
+    url: blog/
     weight: 13
   - name: Experience
     url: experience/
@@ -23,3 +23,6 @@ main:
   - name: Courses
     url: courses/
     weight: 40
+  - name: Research Labs
+    url: labs/
+    weight: 15

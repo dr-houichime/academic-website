@@ -42,11 +42,7 @@ sections:
       title: '📚 Our Research Vision'
       subtitle: ''
       text: |-
-        My research focuses on **Automated Software Engineering (ASE)** and **Intelligent Software Maintenance**. I explore how **Artificial Intelligence** can be applied to modernize software architectures, specifically treating code as a signal for **automated refactoring** and **design pattern detection**.
-
-        I am currently structuring the **"Analytical Software Engineering"** research pole, aiming to bridge the gap between formal specifications and implementation through auditable AI.
-        
-        I apply a range of qualitative and quantitative methods to investigate the role of bio-inspired algorithms and memory architectures in software optimization.
+        Our research strategy proceeds from the fundamental rejection of the "warehouse" orthodoxy that treats code and data as a static accumulation of discrete, linear artifacts. We redefine intelligence as the persistence of a trajectory, transmuting symbolic information and software architectures into continuous physical signals governed by the laws of motion on ergodic manifolds. By prioritizing "Analytical Software Engineering" (ASE) over traditional static analysis, we achieve a thermodynamic inversion where infinite structural complexity is folded into finite, spectral fingerprints with zero redundancy. We replace the inefficiency of literal retrieval with the act of resonance—a reconstructive process that identifies the unique topological intersection where semantic probability and geometric evidence collide to identify design patterns or recover context. Ultimately, we seek the "spectral fingerprint" of any system, driving the computational cost of state and architecture recovery toward an algorithmic vanishing point where the weight of the past is decoupled from the speed of the present.
     design:
       columns: '1'
   - block: collection
