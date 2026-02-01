@@ -12,3 +12,7 @@ Rabat, 10112, Morocco.
 **Computer Science Research Laboratory (LaRI)**
 Faculty of Science, Ibn Tofail University
 Kenitra, 14000, Morocco.
+
+**SPM Laboratory**
+ENSIAS, Mohammed V University In Rabat
+Rabat, Morocco
