@@ -60,10 +60,10 @@ Designed and lectured by **Pr. Houichime** at Ibn Tofaïl University, this cours
 Access the full course materials and practical exercises below:
 
 <div class="d-flex flex-column gap-3 mt-4">
-  <a class="btn btn-primary btn-lg" href="/uploads/gen-ai-course.pdf" target="_blank" rel="noopener">
+  <a class="btn btn-primary btn-lg" href="https://dr-houichime.github.io/academic-website/uploads/gen-ai-course.pdf" target="_blank" rel="noopener">
     <i class="fas fa-file-pdf me-2"></i> Download Course Slides/Notes (PDF)
   </a>
-  <a class="btn btn-primary btn-lg" href="/uploads/gen-ai-exercises.zip" target="_blank" rel="noopener">
+  <a class="btn btn-primary btn-lg" href="https://dr-houichime.github.io/academic-website/uploads/gen-ai-exercises.zip" target="_blank" rel="noopener">
     <i class="fas fa-file-archive me-2"></i> Download Exercises (ZIP)
   </a>
 </div>
