@@ -1,8 +1,8 @@
 ---
 title: Dr. Houichime Tarik
-role: PhD in Computer Science / Software Engineering
+role: Docteur en Informatique / Génie Logiciel
 avatar_filename: avatar.png
-bio: Lecturer & Researcher in Automated & Intelligent Software Engineering. Expert in evolutionary maintenance and ASE.
+bio: Enseignant-Chercheur en Génie Logiciel Automatisé & Intelligent. Expert en maintenance évolutive et ASE.
 interests:
   - Automated Software Engineering (ASE)
   - Mining Software Repositories & Big Code
@@ -18,31 +18,25 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Tarik-Houichime'
-  - icon: scopus
-    icon_pack: ai
-    link: 'https://www.scopus.com/authid/detail.uri?authorId=58186885400'
-  - icon: researcherid
-    icon_pack: ai
-    link: 'https://www.webofscience.com/wos/author/record/KLV-0964-2024'
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0003-3477-4912'
 organizations:
-  - name: ENSIAS, Mohammed V University
+  - name: ENSIAS, Université Mohammed V
     url: ''
 education:
   courses:
     - course: Ph.D. in Software Engineering
-      institution: ENSIAS, Mohammed V University, Rabat
+      institution: ENSIAS, Université Mohammed V, Rabat
       year: 2023-2025
     - course: Master in Big Data and Cloud Computing
-      institution: Ibn Tofail University, Kénitra
+      institution: Université Ibn Tofail, Kénitra
       year: 2015-2017
     - course: Licence in Mathematics and Computer Science
-      institution: Ibn Tofail University, Kénitra
+      institution: Université Ibn Tofail, Kénitra
       year: 2011-2015
-    - course: Baccalaureate in Mathematics-B (With Honors)
-      institution: 1st Royal Military High School, Kénitra
+    - course: Baccalauréat Mathématiques-B (Mention Bien)
+      institution: 1er Lycée Militaire Royal, Kénitra
       year: 2011
 superuser: true
 user_groups:
@@ -51,14 +45,14 @@ user_groups:
 
 # Work Experience
 work:
-  - position: Tech Lead
+  - position: Lead Technique
     company_name: BNP Paribas (Paris)
     company_url: ''
     company_logo: ''
     date_start: '2025-01-01'
     date_end: ''
     summary: |
-      Kafka Streaming, Docker, Massive ETL, PySpark, CI/CD.
+      Streaming Kafka, Docker, ETL massifs, PySpark, CI/CD.
   - position: Associate Researcher & R&D Engineer
     company_name: Forvis Mazars (Paris)
     company_url: ''
@@ -66,7 +60,7 @@ work:
     date_start: '2024-01-01'
     date_end: '2025-01-01'
     summary: |
-      Graph/Vector DB, Blockchain, AI for Audit (IFRS), Azure. Synthetic data generation.
+      Graph/Vector DB, blockchain, AI for audit (IFRS), Azure. Synthetic data generation.
   - position: R&D Engineer
     company_name: Caisse des Dépôts (Paris)
     company_url: ''
@@ -74,7 +68,7 @@ work:
     date_start: '2023-01-01'
     date_end: '2024-01-01'
     summary: |
-      Data Marts, Massive ETL (PySpark/Hive/Impala), CI/CD.
+      Data marts, ETL massifs (PySpark/Hive/Impala), CI/CD.
   - position: Python/Java Developer
     company_name: CustomerValue (Paris)
     company_url: ''
@@ -82,23 +76,23 @@ work:
     date_start: '2021-01-01'
     date_end: '2022-01-01'
     summary: |
-      Integrations: QuickBooks, Sellsy, Yousign, FreePBX, Sendinblue.
+      Intégrations QuickBooks, Sellsy, Yousign, FreePBX, Sendinblue.
   - position: Data Scientist
-    company_name: French Customs (Douanes Françaises)
+    company_name: Douanes Françaises (Paris)
     company_url: ''
     company_logo: ''
     date_start: '2020-01-01'
     date_end: '2021-01-01'
     summary: |
-      Fuzzy matching at scale, coupled with Salesforce Einstein.
+      Fuzzy matching à l'échelle, couplé à Salesforce Einstein.
   - position: R&D Engineer
-    company_name: Ministry of Defense (Paris)
+    company_name: Ministère de la Défense (Paris)
     company_url: ''
     company_logo: ''
     date_start: '2019-01-01'
     date_end: '2020-01-01'
     summary: |
-      Migration from relational databases to distributed on-prem systems.
+      Migration bases de données relationnelles vers distribuées on-prem.
   - position: Big Data Developer
     company_name: ATEO Group (Paris)
     company_url: ''
@@ -106,7 +100,7 @@ work:
     date_start: '2017-01-01'
     date_end: '2019-01-01'
     summary: |
-      CRM, Social Media Collection, SQL/NoSQL Databases, Linux/PBX Admin.
+      CRM, collecte réseaux sociaux, bases SQL/NoSQL, admin Linux/PBX.
 
 # Skills
 skills:
@@ -143,10 +137,10 @@ skills:
 
 ## About Me
 
-Lecturer and Researcher in **Automated & Intelligent Software Engineering**. An expert in evolutionary maintenance, I publish in leading field journals (Q1/Q2: *Automated Software Engineering*, *Science of Computer Programming*). My scientific contribution resides in the formalization of the **Analytical Software Engineering (ASE)** paradigm, an original approach treating code as a signal for **refactoring** and **design pattern detection**.
+Enseignant-Chercheur en Génie Logiciel Automatisé & Intelligent. Expert en maintenance évolutive, je publie dans les revues de référence du domaine (Q1/Q2 : *Automated Software Engineering*, *Science of Computer Programming*). Mon apport scientifique réside dans la formalisation du paradigme **Analytical Software Engineering (ASE)**, une approche originale traitant le code comme un signal pour le **refactoring** et la **détection de design patterns**.
 
-### Teaching
-Solid experience in **Software Engineering (OOP, Architecture), Distributed Systems, Logic Programming**, and Databases. Complementary expertise in **AI applied to code (LLMs)**.
+### Enseignement
+Solide expérience en **Génie Logiciel (POO, Architecture), Systèmes Distribués, Programmation Logique** et Bases de Données. Expertise complémentaire en **IA appliquée au code (LLMs)**.
 
-### Chair Project
-Structuring an **"Analytical Software Engineering"** research pole, dedicated to modernizing software architectures via auditable AI, with strong industrial roots and doctoral co-supervision.
+### Projet de chaire
+Structurer un pôle de recherche **"Analytical Software Engineering"**, dédié à la modernisation des architectures logicielles par l'IA auditable, avec fort ancrage industriel et co-encadrement doctoral.

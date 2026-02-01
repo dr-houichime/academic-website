@@ -7,18 +7,18 @@ name:
   family: Houichime
   alternate: ''
   pronunciation: ''
-  pronouns: he/him
+  pronouns: ''
 postnominals:
   - PhD
-  - Enseignant-Chercheur
+  - Lecturer/Researcher
 status:
   icon: "👨‍🏫"
-role: Docteur en Informatique / Génie Logiciel
+role: PhD in Computer Science / Software Engineering
 bio: |
-  Enseignant-Chercheur en Génie Logiciel Automatisé & Intelligent. Expert en maintenance évolutive et ASE.
+  Lecturer & Researcher in Automated & Intelligent Software Engineering. Expert in evolutionary maintenance and ASE.
 
 affiliations:
-  - name: ENSIAS, Université Mohammed V
+  - name: ENSIAS, Mohammed V University
     url: ''
 
 links:
@@ -31,6 +31,10 @@ links:
     url: https://orcid.org/0000-0003-3477-4912
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Tarik-Houichime
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=58186885400
+  - icon: academicons/researcherid
+    url: https://www.webofscience.com/wos/author/record/KLV-0964-2024
 
 interests:
   - Automated Software Engineering (ASE)
@@ -40,47 +44,51 @@ interests:
 
 education:
   - degree: Ph.D. in Software Engineering
-    institution: ENSIAS, Université Mohammed V, Rabat
-    start: 2023-01-01
-    end: 2025-01-01
-    summary: Thèse sur Analytical Software Engineering (ASE).
+    institution: ENSIAS, Mohammed V University, Rabat
+    start: 2023
+    end: 2025
+    summary: Thesis on Analytical Software Engineering (ASE).
   - degree: Master in Big Data and Cloud Computing
-    institution: Université Ibn Tofail, Kénitra
-    start: 2015-01-01
-    end: 2017-01-01
+    institution: Ibn Tofail University, Kénitra
+    start: 2015
+    end: 2017
   - degree: Licence in Mathematics and Computer Science
-    institution: Université Ibn Tofail, Kénitra
-    start: 2011-01-01
-    end: 2015-01-01
+    institution: Ibn Tofail University, Kénitra
+    start: 2011
+    end: 2015
+  - degree: Baccalaureate in Mathematics-B (With Honors)
+    institution: 1st Royal Military High School, Kénitra
+    start: 2010
+    end: 2011
 
 experience:
-  - role: Lead Technique
+  - role: Tech Lead
     org: BNP Paribas (Paris)
     start: 2025-01-01
     summary: |
-      Streaming Kafka, Docker, ETL massifs, PySpark, CI/CD.
+      Kafka Streaming, Docker, Massive ETL, PySpark, CI/CD.
   - role: Associate Researcher & R&D Engineer
     org: Forvis Mazars (Paris)
     start: 2024-01-01
     end: 2025-01-01
     summary: |
-      Graph/Vector DB, blockchain, AI for audit (IFRS), Azure.
+      Graph/Vector DB, Blockchain, AI for Audit (IFRS), Azure.
   - role: R&D Engineer
     org: Caisse des Dépôts (Paris)
     start: 2023-01-01
     end: 2024-01-01
     summary: |
-      Data marts, ETL massifs (PySpark/Hive/Impala), CI/CD.
+      Data Marts, Massive ETL (PySpark/Hive/Impala), CI/CD.
   - role: Python/Java Developer
     org: CustomerValue (Paris)
     start: 2021-01-01
     end: 2022-01-01
   - role: Data Scientist
-    org: Douanes Françaises (Paris)
+    org: French Customs (Douanes Françaises)
     start: 2020-01-01
     end: 2021-01-01
   - role: R&D Engineer
-    org: Ministère de la Défense (Paris)
+    org: Ministry of Defense (Paris)
     start: 2019-01-01
     end: 2020-01-01
   - role: Big Data Developer
