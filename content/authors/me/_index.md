@@ -145,8 +145,12 @@ skills:
 
 Lecturer and Researcher in **Automated & Intelligent Software Engineering**. An expert in evolutionary maintenance, I publish in leading field journals (Q1/Q2: *Automated Software Engineering*, *Science of Computer Programming*). My scientific contribution resides in the formalization of the **Analytical Software Engineering (ASE)** paradigm, an original approach treating code as a signal for **refactoring** and **design pattern detection**.
 
+
+
 ### Teaching
 Solid experience in **Software Engineering (OOP, Architecture), Distributed Systems, Logic Programming**, and Databases. Complementary expertise in **AI applied to code (LLMs)**.
 
 ### Chair Project
 Structuring an **"Analytical Software Engineering"** research pole, dedicated to modernizing software architectures via auditable AI, with strong industrial roots and doctoral co-supervision.
+
+

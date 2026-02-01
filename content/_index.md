@@ -14,7 +14,12 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: |-
+        Lecturer and Researcher specializing in **Automated & Intelligent Software Engineering**. I publish in top-tier journals (Q1/Q2: *Automated Software Engineering*, *Science of Computer Programming*) with a focus on evolutionary maintenance. My work formalizes the **Analytical Software Engineering (ASE)** paradigm, treating code as a physical signal for **refactoring** and **design pattern detection**. Additionally, I lead the development of **Phonetic Trajectory Memory (PTM)**, a biomimetic architecture utilizing ergodic manifolds to enable infinite context memory with **O(1)** efficiency.
+
+        ### 📚 Our Research Vision
+        
+        Our research strategy proceeds from the fundamental rejection of the "warehouse" orthodoxy that treats code and data as a static accumulation of discrete, linear artifacts. We redefine intelligence as the persistence of a trajectory, transmuting symbolic information and software architectures into continuous physical signals governed by the laws of motion on ergodic manifolds. By prioritizing "Analytical Software Engineering" (ASE) over traditional static analysis, we achieve a thermodynamic inversion where infinite structural complexity is folded into finite, spectral fingerprints with zero redundancy. We replace the inefficiency of literal retrieval with the act of resonance—a reconstructive process that identifies the unique topological intersection where semantic probability and geometric evidence collide to identify design patterns or recover context. Ultimately, we seek the "spectral fingerprint" of any system, driving the computational cost of state and architecture recovery toward an algorithmic vanishing point where the weight of the past is decoupled from the speed of the present.
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -37,14 +42,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 Our Research Vision'
-      subtitle: ''
-      text: |-
-        Our research strategy proceeds from the fundamental rejection of the "warehouse" orthodoxy that treats code and data as a static accumulation of discrete, linear artifacts. We redefine intelligence as the persistence of a trajectory, transmuting symbolic information and software architectures into continuous physical signals governed by the laws of motion on ergodic manifolds. By prioritizing "Analytical Software Engineering" (ASE) over traditional static analysis, we achieve a thermodynamic inversion where infinite structural complexity is folded into finite, spectral fingerprints with zero redundancy. We replace the inefficiency of literal retrieval with the act of resonance—a reconstructive process that identifies the unique topological intersection where semantic probability and geometric evidence collide to identify design patterns or recover context. Ultimately, we seek the "spectral fingerprint" of any system, driving the computational cost of state and architecture recovery toward an algorithmic vanishing point where the weight of the past is decoupled from the speed of the present.
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
