@@ -14,9 +14,7 @@ main:
   - name: Essays
     url: blog/
     weight: 13
-  - name: Experience
-    url: experience/
-    weight: 20
+
   - name: Projects
     url: projects/
     weight: 30

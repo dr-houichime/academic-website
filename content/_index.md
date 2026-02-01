@@ -15,7 +15,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: |-
-        Lecturer and Researcher specializing in **Automated & Intelligent Software Engineering**. I publish in top-tier journals (Q1/Q2: *Automated Software Engineering*, *Science of Computer Programming*) with a focus on evolutionary maintenance. My work formalizes the **Analytical Software Engineering (ASE)** paradigm, treating code as a physical signal for **refactoring** and **design pattern detection**. Additionally, I lead the development of **Phonetic Trajectory Memory (PTM)**, a biomimetic architecture utilizing ergodic manifolds to enable infinite context memory with **O(1)** efficiency.
+        Lecturer and Researcher specializing in **Automated & Intelligent Software Engineering**. I publish in top-tier journals with a focus on evolutionary maintenance. My work formalizes the **Analytical Software Engineering (ASE)** paradigm, treating code as a physical signal for **refactoring** and **design pattern detection**. Additionally, I lead the development of **Phonetic Trajectory Memory (PTM)**, a biomimetic architecture utilizing ergodic manifolds to enable infinite context memory with **O(1)** efficiency.
 
         ### 📚 Our Research Vision
         
