@@ -1,0 +1,131 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dr. Houichime Tarik
+  given: Tarik
+  family: Houichime
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals:
+  - PhD
+  - Enseignant-Chercheur
+status:
+  icon: "👨‍🏫"
+role: Docteur en Informatique / Génie Logiciel
+bio: |
+  Enseignant-Chercheur en Génie Logiciel Automatisé & Intelligent. Expert en maintenance évolutive et ASE.
+
+affiliations:
+  - name: ENSIAS, Université Mohammed V
+    url: ''
+
+links:
+  - icon: at-symbol
+    url: mailto:houichimetarik@yahoo.com
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=fr&user=SznnTqEAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-3477-4912
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Tarik-Houichime
+
+interests:
+  - Automated Software Engineering (ASE)
+  - Mining Software Repositories & Big Code
+  - Bio-inspired SE & Memory Architectures
+  - Green IT & Systems
+
+education:
+  - degree: Ph.D. in Software Engineering
+    institution: ENSIAS, Université Mohammed V, Rabat
+    start: 2023-01-01
+    end: 2025-01-01
+    summary: Thèse sur Analytical Software Engineering (ASE).
+  - degree: Master in Big Data and Cloud Computing
+    institution: Université Ibn Tofail, Kénitra
+    start: 2015-01-01
+    end: 2017-01-01
+  - degree: Licence in Mathematics and Computer Science
+    institution: Université Ibn Tofail, Kénitra
+    start: 2011-01-01
+    end: 2015-01-01
+
+experience:
+  - role: Lead Technique
+    org: BNP Paribas (Paris)
+    start: 2025-01-01
+    summary: |
+      Streaming Kafka, Docker, ETL massifs, PySpark, CI/CD.
+  - role: Associate Researcher & R&D Engineer
+    org: Forvis Mazars (Paris)
+    start: 2024-01-01
+    end: 2025-01-01
+    summary: |
+      Graph/Vector DB, blockchain, AI for audit (IFRS), Azure.
+  - role: R&D Engineer
+    org: Caisse des Dépôts (Paris)
+    start: 2023-01-01
+    end: 2024-01-01
+    summary: |
+      Data marts, ETL massifs (PySpark/Hive/Impala), CI/CD.
+  - role: Python/Java Developer
+    org: CustomerValue (Paris)
+    start: 2021-01-01
+    end: 2022-01-01
+  - role: Data Scientist
+    org: Douanes Françaises (Paris)
+    start: 2020-01-01
+    end: 2021-01-01
+  - role: R&D Engineer
+    org: Ministère de la Défense (Paris)
+    start: 2019-01-01
+    end: 2020-01-01
+  - role: Big Data Developer
+    org: ATEO Group (Paris)
+    start: 2017-01-01
+    end: 2019-01-01
+
+skills:
+  - name: Programming
+    items:
+      - label: Python
+        level: 5
+      - label: Scala
+        level: 4
+      - label: Java
+        level: 5
+      - label: C/C++
+        level: 4
+      - label: SQL
+        level: 5
+  - name: Big Data & Cloud
+    items:
+      - label: Spark
+        level: 5
+      - label: Hadoop
+        level: 4
+      - label: Kafka
+        level: 4
+      - label: Azure/GCP/AWS
+        level: 4
+  - name: Data Science & AI
+    items:
+      - label: Machine Learning
+        level: 5
+      - label: Neo4j
+        level: 4
+      - label: LLMs
+        level: 4
+
+languages:
+  - name: French
+    level: 5
+    label: Native/C1
+  - name: English
+    level: 5
+    label: C1 (TOEFL/IELTS)
+
+awards: []
